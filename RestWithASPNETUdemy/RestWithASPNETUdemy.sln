@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scaffold_LinhaComando", "Scaffold_LinhaComando\Scaffold_LinhaComando.csproj", "{D7664A3A-15D5-4D75-BA6F-5564E62E5265}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scaffold_VisualStudio", "Scaffold_VisualStudio\Scaffold_VisualStudio.csproj", "{FE520D2C-7B5B-4508-81A1-642E61A158DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scaffold_VisualStudio", "Scaffold_VisualStudio\Scaffold_VisualStudio.csproj", "{FE520D2C-7B5B-4508-81A1-642E61A158DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{82922C7A-25ED-405A-A0ED-46C1B40978AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +43,18 @@ Global
 		{FE520D2C-7B5B-4508-81A1-642E61A158DA}.Release|x64.Build.0 = Release|Any CPU
 		{FE520D2C-7B5B-4508-81A1-642E61A158DA}.Release|x86.ActiveCfg = Release|Any CPU
 		{FE520D2C-7B5B-4508-81A1-642E61A158DA}.Release|x86.Build.0 = Release|Any CPU
+		{82922C7A-25ED-405A-A0ED-46C1B40978AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82922C7A-25ED-405A-A0ED-46C1B40978AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82922C7A-25ED-405A-A0ED-46C1B40978AD}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{82922C7A-25ED-405A-A0ED-46C1B40978AD}.Debug|x64.Build.0 = Debug|Any CPU
+		{82922C7A-25ED-405A-A0ED-46C1B40978AD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{82922C7A-25ED-405A-A0ED-46C1B40978AD}.Debug|x86.Build.0 = Debug|Any CPU
+		{82922C7A-25ED-405A-A0ED-46C1B40978AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82922C7A-25ED-405A-A0ED-46C1B40978AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82922C7A-25ED-405A-A0ED-46C1B40978AD}.Release|x64.ActiveCfg = Release|Any CPU
+		{82922C7A-25ED-405A-A0ED-46C1B40978AD}.Release|x64.Build.0 = Release|Any CPU
+		{82922C7A-25ED-405A-A0ED-46C1B40978AD}.Release|x86.ActiveCfg = Release|Any CPU
+		{82922C7A-25ED-405A-A0ED-46C1B40978AD}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
